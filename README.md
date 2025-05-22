@@ -9,3 +9,9 @@ This repository serves as comprehensive study material for understanding securit
 ## Study Material By Weeks
 - [Week1](./week1.md)
 - [Week2](./week2.md)
+
+## Additional Reading Material
+Additional reading material can be found here
+### Week 3
+- [An Introduction to Smart Cards](extra_material/Chapter 1 - An Introducion to S___Applications - 2nd Edition.pdf)
+- [Smart Cards, Tokens, Security and Smart Cards Technology Trends](extra_material/Smart Cards, Tokens, Security a___rt Cards Technology Trends.pdf)
