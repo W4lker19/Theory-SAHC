@@ -5,3 +5,6 @@ A comprehensive repository dedicated to the theoretical foundations of Security 
 ## 🎯 Objectives
 
 This repository serves as comprehensive study material for understanding security mechanisms in trusted hardware, covering theoretical foundations, attack vectors, defense strategies, and real-world applications in security-critical systems.
+
+## Study Material By Weeks
+- [Week1](./week1.md)
