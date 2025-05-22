@@ -7,9 +7,9 @@ A comprehensive repository dedicated to the theoretical foundations of Security 
 This repository serves as comprehensive study material for understanding security mechanisms in trusted hardware, covering theoretical foundations, attack vectors, defense strategies, and real-world applications in security-critical systems.
 
 ## Study Material By Weeks
-- [Week1](./week1.md)
-- [Week2](./week2.md)
-- [Week3](./week3.md)
+- [Introduction](./week1.md)
+- [Overview](./week2.md)
+- [Smart Cards](./week3.md)
 
 ## Additional Reading Material
 Additional reading material, for each week can be found here
