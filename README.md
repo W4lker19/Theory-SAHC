@@ -8,3 +8,4 @@ This repository serves as comprehensive study material for understanding securit
 
 ## Study Material By Weeks
 - [Week1](./week1.md)
+- [Week2](./week2.md)
